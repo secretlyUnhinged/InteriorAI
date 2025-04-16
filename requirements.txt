@@ -1,0 +1,10 @@
+torch
+numpy
+streamlit==1.20.0
+Pillow
+ftfy
+regex
+tqdm
+faiss-cpu
+git+https://github.com/openai/CLIP.git
+pyngrok
